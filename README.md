@@ -1,7 +1,8 @@
 # So_Long
 The idea is to create a 2D game with the help of the minilibX and X11 graphic server. The player has to collect the "collectibles" before he can leave the map through the exit(s). The map is a file ".ber" loaded as an argument of the executable. The number of moves are counted and the goal is to join the exit with the minimum number of moves.
 
-<img width="1407" alt="Ekran Resmi 2023-05-27 00 07 10" src="https://github.com/badi361/So_Long/assets/115088616/97c6e350-3df9-4eda-84be-b7587ea76ffb">
+<img width="1215" alt="Ekran Resmi 2024-01-29 ÖS 4 24 30" src="https://github.com/YusufAnilTurgut/so_long/assets/77076915/546b7532-4d14-4885-b0c6-a9e2199345a3">
+
 
 How to compil and run the game
 
